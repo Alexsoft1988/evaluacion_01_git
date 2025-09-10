@@ -1,2 +1,6 @@
 prueba archivo Master 01
+<<<<<<< HEAD
 git resert hard
+=======
+reset mixed
+>>>>>>> a3a4690d5febe6126792c555701fadce8c139079
